@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YusufLisawi
 - 👀 I’m interested in Web Developement 
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and JavaScript and also PHP
 - 💞️ I’m looking to collaborate on anything cool about web dev or python
 - 📫 How to reach me: 
             Instagram: @yusufisawi
