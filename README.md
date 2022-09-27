@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on **my new porfolio**
 
--   🌱 I’m currently learning **React, Laraval**
+-   🌱 I’m currently learning **React and Laraval**
 
 -   👯 I’m looking to collaborate on **any thing about web development**
 
