@@ -7,7 +7,7 @@
 
 -   👯 I’m looking to collaborate on **any thing about web development**
 
--   👨‍💻 (Updating...) All of my projects are available at [yusuflisawi.github.com](yusuflisawi.github.io)
+-   👨‍💻 (Updating...) All of my projects are available at [yusuflisawi.github.io](yusuflisawi.github.io)
 
 -   💬 Ask me about **Javascript, Css, Python and Php**
 
