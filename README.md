@@ -27,8 +27,8 @@
 ![yelaissa's 42 stats](https://badge.mediaplus.ma/darkblue/yelaissa)
 
 <div style="display:flex;align-items:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=YusufLisawi&show_icons=true&theme=radical" alt="YusufLisawi's stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLisawi&layout=compact&theme=radical" alt="YusufLisawi's most used langs"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YusufLisawi&show_icons=true&theme=radical" alt="YusufLisawi's stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLisawi&layout=compact&theme=radical" alt="YusufLisawi's most used langs"/>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuflisawi&" alt="yusuflisawi" /></p>
