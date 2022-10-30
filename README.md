@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef El Aissaoui (Aka Yusuf L Isawi))</h1>
 <h3 align="center">A passionate full-stack web developer from Morocco</h3>
 
--   🔭 I’m currently working on **my new porfolio** and **42 cursus**
+-   🔭 I’m currently working on **my new portfolio** and **42 cursus**
 
 -   🌱 I’m currently learning **React and Laraval**
 
