@@ -26,7 +26,9 @@
 
 ![yelaissa's 42 stats](https://badge.mediaplus.ma/darkblue/yelaissa)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLisawi&show_icons=true&theme=radical)]
+<p style="display:flex;align-items:center;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLisawi&show_icons=true&theme=radical)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLisawi&layout=compact&theme=radical) 
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuflisawi&" alt="yusuflisawi" /></p>
