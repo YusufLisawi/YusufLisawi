@@ -24,9 +24,9 @@
 <a href="https://instagram.com/yusufisawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufisawi" height="30" width="40" /></a>
 </p>
 
-[![yelaissa's 42 stats](https://badge.mediaplus.ma/darkblue/yelaissa)]
+![yelaissa's 42 stats](https://badge.mediaplus.ma/darkblue/yelaissa)
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLisawi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLisawi&layout=compact&theme=radical) |
-|:-:|:-:|
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufLisawi&show_icons=true&theme=radical)]
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLisawi&layout=compact&theme=radical) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuflisawi&" alt="yusuflisawi" /></p>
