@@ -14,7 +14,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/yusuflisawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yusuflisawi" height="30" width="40" /></a>
-<a href="https://dev.to/yusuflisawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yusuflisawi" height="30" width="40" /></a>
 <a href="https://twitter.com/yusufisawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufisawi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/youssef-el-aissaoui-424527206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-el-aissaoui-424527206/" height="30" width="40" /></a>
 <a href="https://instagram.com/yusufisawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufisawi" height="30" width="40" /></a>
