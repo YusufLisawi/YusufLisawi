@@ -5,7 +5,7 @@
 
 -   🌱 I’m currently learning **React and Laraval**
 
--   👨‍💻 (Updating...) All of my projects are available at [yusuflisawi.github.io](https://isawi.me)
+-   👨‍💻 (Updating...) All of my projects are available at [isawi.me](https://isawi.me)
 
 -   📫 How to reach me **yusufisawi@gmail.com**
 
