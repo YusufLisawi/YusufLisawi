@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on **my new portfolio** and **42 cursus**
 
--   🌱 I’m currently learning **React and Laraval**
+-   🌱 I’m currently learning **Angular and Laraval**
 
 -   👨‍💻 (Updating...) All of my projects are available at [isawi.me](https://isawi.me)
 
