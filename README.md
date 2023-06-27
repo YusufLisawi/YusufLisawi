@@ -3,7 +3,7 @@
 
 -   Portfolio : [isawi.me](https://isawi.me)
 
--   Linkedin : [https://www.linkedin.com/in/youssef-el-aissaoui-424527206/](https://www.linkedin.com/in/youssef-el-aissaoui-424527206/)
+-   Linkedin : [www.linkedin.com](https://www.linkedin.com/in/youssef-el-aissaoui-424527206/)
 
 <div align="center"><img src="https://badge.mediaplus.ma/darkblue/yelaissa" alt="Yusuf's 42 cursus"/></div>
 <br/>
