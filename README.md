@@ -10,3 +10,5 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufLisawi&layout=compact&theme=radical" alt="YusufLisawi's most used langs"/></div>
 <div align="center">
 </div>
+
+[42 Projects](https://github.com/YusufLisawi?tab=repositories&q=42-&type=&language=&sort=)
